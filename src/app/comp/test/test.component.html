@@ -1,0 +1,10 @@
+<p>test works!</p>
+<p>{{name | uppercase}}</p>
+{{date | date}}
+<p>Hello </p>
+<ul *ngFor="let data of user">
+    <li><span>{{data.id }} </span>{{data.name}}</li>
+
+</ul>
+<button (click)=" fireemit()">send to parent</button>
+<button (click)=" newMessage()">send to parent</button>

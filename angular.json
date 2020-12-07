@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tuto"
+    }
+  },
+  "defaultProject": "tuto",
+  "cli": {
+    "analytics": "33a914a0-7d1f-47d7-b715-f9ec11fb116d"
+  }
 }

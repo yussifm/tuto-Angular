@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tuto';
+  public pname = 'Coded spartant';
+  public mes: string;
+  public dif: string;
 }
